@@ -44,6 +44,10 @@ Where ```v``` is the amount you had when the withdrawal was requested, and ```to
  
 If enough holders send ETH to the contract, the possibility of some of them doing a quick withdrawing (paying the 1% fee) makes it happen more often. So, the fee pot would increase faster, generating more extra ether for every holder. The colective benefits for holding ether on the contract, as it is disadivantageous to quick withdraw the money.
 
+### Flow Diagram
+
+![](https://github.com/marco-jardim/etherbox/blob/master/Ether%20Box%20-%20Page%201.png "Ether Box Diagram")
+
 ### Future Improvements
 
 * A small chunk of the smart contract funds (10%) can be used for day trading with a trusted partner, generating more revenue to holders.
